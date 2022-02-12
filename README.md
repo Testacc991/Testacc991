@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Testacc991
-- 👀 I’m interested in Lua, Defold, Python
-- 🌱 I’m currently learning Defold
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me https://mastodon.social/web/@nich99
 
