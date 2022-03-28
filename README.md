@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lua Defold
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on somebody
-- 📫 How to reach me https://mastodon.social/web/@nich99
+- 📫 How to reach me
 
 <!---
 Testacc991/Testacc991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
